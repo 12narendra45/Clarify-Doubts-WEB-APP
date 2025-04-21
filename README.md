@@ -112,5 +112,5 @@ Pull requests are welcome! If you’d like to contribute, please fork the repo a
 
 ## 📬 Contact
 
-Feel free to reach out via [your-email@example.com](mailto:your-email@example.com) or connect on [LinkedIn](https://linkedin.com/in/your-profile).
+Feel free to reach out via [narendrachakka33@gmail.com] or connect on [LinkedIn](www.linkedin.com/in/narendra1903).
 
