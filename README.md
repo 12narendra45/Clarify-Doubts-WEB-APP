@@ -2,7 +2,6 @@
 
 A full-stack Q&A web application built using ReactJS, Express.js, and MongoDB. The platform connects students with registered professors and enables peer-to-peer doubt resolution.
 
-> 📅 Duration: Jan 2025 – Feb 2025
 
 ---
 
@@ -32,20 +31,24 @@ A full-stack Q&A web application built using ReactJS, Express.js, and MongoDB. T
 <table>
   <tr>
     <td align="center">
+      <img src="images/landing page.png" width="250"/><br/>
+      <strong>Landing page</strong>
+    </td>
+    <td align="center">
       <img src="images/login.png" width="250"/><br/>
       <strong>Login Screen</strong>
     </td>
     <td align="center">
-      <img src="images/signup.png" width="250"/><br/>
-      <strong>Sign Up Screen</strong>
-    </td>
-    <td align="center">
-      <img src="images/home.png" width="250"/><br/>
+      <img src="images/Home.png" width="250"/><br/>
       <strong>Dashboard</strong>
     </td>
     <td align="center">
-      <img src="images/extrs.png" width="250"/><br/>
+      <img src="images/post doubts.png" width="250"/><br/>
       <strong>Query & Answers</strong>
+    </td>
+     <td align="center">
+      <img src="images/Book Apointment.png" width="250"/><br/>
+      <strong>Book Appointment</strong>
     </td>
   </tr>
 </table>
