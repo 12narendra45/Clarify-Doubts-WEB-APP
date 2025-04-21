@@ -31,25 +31,25 @@ A full-stack Q&A web application built using ReactJS, Express.js, and MongoDB. T
 <table>
   <tr>
     <td align="center">
-      <img src="images/Landing page.png" width="250"/><br/>
+      <img src="images/Landing page.png" width="300"/><br/>
       <strong>Landing page</strong>
     </td>
     <td align="center">
-      <img src="images/login.png" width="250"/><br/>
+      <img src="images/login.png" width="300"/><br/>
       <strong>Login Screen</strong>
     </td>
     <td align="center">
-      <img src="images/Home.png" width="250"/><br/>
+      <img src="images/Home.png" width="300"/><br/>
       <strong>Dashboard</strong>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="images/post doubts.png" width="250"/><br/>
+      <img src="images/post doubts.png" width="300"/><br/>
       <strong>Query & Answers</strong>
     </td>
      <td align="center">
-      <img src="images/Book Apointment.png" width="250"/><br/>
+      <img src="images/Book Apointment.png" width="300"/><br/>
       <strong>Book Appointment</strong>
     </td>
   </tr>
