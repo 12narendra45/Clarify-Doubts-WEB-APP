@@ -1,7 +1,8 @@
 # Clarify Doubts – Q&A Platform for Students & Professors
 
-A full-stack Q&A web application built using ReactJS, Express.js, and MongoDB. The platform connects students with registered professors and enables peer-to-peer doubt resolution.
+Clarify Doubts is a full-stack web application designed to bridge the communication gap between students and professors while promoting collaborative learning. The platform allows students to post academic doubts, which can be addressed not only by registered professors but also by peers, fostering a community-driven learning environment.
 
+The system is designed with simplicity and accessibility in mind, ensuring that users with minimal technical experience can easily sign up, log in, and interact. It also incorporates intelligent features like YouTube video recommendations based on the context of the question to provide relevant external resources.
 
 ---
 
