@@ -31,7 +31,7 @@ A full-stack Q&A web application built using ReactJS, Express.js, and MongoDB. T
 <table>
   <tr>
     <td align="center">
-      <img src="images/Landing page.png" width="300"/><br/>
+      <img src="images/Landing Page.png" width="300"/><br/>
       <strong>Landing page</strong>
     </td>
     <td align="center">
